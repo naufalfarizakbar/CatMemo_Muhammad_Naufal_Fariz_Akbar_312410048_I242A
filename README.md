@@ -30,7 +30,7 @@ Proses mengedit teks dengan formatting dan penggunaan fitur Pin serta Pencarian.
 ---
 
 ### 4. ✨ Asisten AI (Fitur Utama)
-Integrasi AI yang dapat meringkas catatan pengguna dengan kepribadian unik.
+Integrasi AI yang dapat meringkas dan membuat kesimpulan dari catatan pengguna dengan cara komunikasi yang unik, lucu, namun bahasa nya masih dapat diterima dan dipahami dengan cukup baik oleh pengguna.
 | Interaksi AI 1 | Interaksi AI 2 |
 |:---:|:---:|
 | ![AI Interaksi 1](7.%20Asisten%20AI%20Interaksi%201.jpg) | ![AI Interaksi 2](7.%20Asisten%20AI%20Interaksi%202.jpg) |
