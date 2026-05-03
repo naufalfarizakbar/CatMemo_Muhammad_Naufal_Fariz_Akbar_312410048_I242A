@@ -60,6 +60,6 @@ Halaman untuk mengubah informasi pengguna dan preferensi bahasa.
 Manajemen proyek ini dikelola menggunakan metode SCRUM untuk memantau perkembangan fitur dan bug fixing secara real-time melalui platform ClickUp.
 
 *   **Platform:** ClickUp
-*   **Link ClickUp:** [Lihat Progress SCRUM CatMemo](https://app.clickup.com/90182675260/v/li/901817837400)
+*   **Link ClickUp:** [Lihat Progress SCRUM CatMemo](https://sharing.clickup.com/90182675260/l/h/2kzmwutw-418/d417424a34ec337)
 
 ---
