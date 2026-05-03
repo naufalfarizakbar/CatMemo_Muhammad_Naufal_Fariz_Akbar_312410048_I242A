@@ -51,3 +51,15 @@ Halaman untuk mengubah informasi pengguna dan preferensi bahasa.
 *   **Pin System:** Menyematkan catatan penting di bagian paling atas.
 *   **Search Engine:** Mencari catatan dengan highlight kata kunci secara real-time.
 *   **User Profile:** Kustomisasi data diri dan pilihan bahasa (Indo/English).
+
+---
+
+---
+
+## 📊 Project Management (SCRUM)
+Manajemen proyek ini dikelola menggunakan metode SCRUM untuk memantau perkembangan fitur dan bug fixing secara real-time melalui platform ClickUp.
+
+*   **Platform:** ClickUp
+*   **Link ClickUp:** [Lihat Progress SCRUM CatMemo](https://app.clickup.com/90182675260/v/li/901817837400)
+
+---
