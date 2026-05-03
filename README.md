@@ -30,7 +30,7 @@ Proses mengedit teks dengan formatting dan penggunaan fitur Pin serta Pencarian.
 ---
 
 ### 4. ✨ Asisten AI (Fitur Utama)
-Integrasi AI yang dapat meringkas dan membuat kesimpulan dari catatan pengguna dengan cara komunikasi yang unik, lucu, namun bahasa nya masih dapat diterima dan dipahami dengan cukup baik oleh pengguna.
+Integrasi AI yang dapat meringkas dan membuat kesimpulan dari catatan pengguna dengan cara komunikasi yang unik, dan lucu, serta beragam. Namun bahasa nya masih dapat diterima dan dipahami dengan cukup baik oleh setiap pengguna. (Dibawah ini adalah contoh dari bagaimana AI CatMemo bekerja. Meski reaksi dari AI nya berbeda-beda, namun inti dari kesimpulan dan ringkasan serta poin-poin pada note tetap sama. Sesuai dengan apa yang memang terisi di dalam note nya).
 | Interaksi AI 1 | Interaksi AI 2 |
 |:---:|:---:|
 | ![AI Interaksi 1](7.%20Asisten%20AI%20Interaksi%201.jpg) | ![AI Interaksi 2](7.%20Asisten%20AI%20Interaksi%202.jpg) |
